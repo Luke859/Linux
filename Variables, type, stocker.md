@@ -1,5 +1,7 @@
 # Les variables 
+
 **Une variable** va permettre de stocké une donnée et ensuite de manipuler cette donnée.
+
 **->** Pour déclarer une varaible, il faut ajouter le symbole "**$**" et pour que la variable ai un nom il faut mettre "un dollar" suivi "d'un nom "; Exemple :
 >**$Luke**
 
