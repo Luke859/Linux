@@ -1,4 +1,4 @@
-##Les alias de commande
+## Les alias de commande
 -> **Les alias** vont nous permettre d'ecrire une commande plus facilement, rapidement mais sert principalement à créer un nom alternatif pour une commande disponible dans Powershell.
 Voici un exemple :
 
