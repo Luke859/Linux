@@ -8,14 +8,18 @@
 
 2. [Comment installer Powershell](https://github.com/Luke859/Linux/blob/main/Comment%20installer%20Powershell%20sur%20Windows%20et%20Linux.md)
 
-3. [Nom des commandes](https://github.com/Luke859/Linux/blob/main/Nom%20des%20commandes.md)
+### Les commandes Powershell 
 
-4. [Les commandes d'aide](https://github.com/Luke859/Linux/blob/main/Les%20commandes%20aides.md)
+1. [Nom des commandes](https://github.com/Luke859/Linux/blob/main/Nom%20des%20commandes.md)
 
-5. [Commandes Powershell](https://github.com/Luke859/Linux/blob/main/Commandes%20Powershell.md)
+2. [Les commandes d'aide](https://github.com/Luke859/Linux/blob/main/Les%20commandes%20aides.md)
 
-6. [Les Variables]()
+3. [Les alias de commande](https://github.com/Luke859/Linux/blob/main/Alias%20des%20commandes.md)
 
-7. [Les boucles]()
+4. [Commandes Powershell](https://github.com/Luke859/Linux/blob/main/Commandes%20Powershell.md)
 
-8. [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
+5. [Les Variables]()
+
+6. [Les boucles]()
+
+7. [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
