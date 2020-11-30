@@ -6,9 +6,9 @@ Source Génération Clic : https://generation-clic.net/boucle-programmation-info
 -> La syntaxe d'une boucle For : 
 > For(<**état initial**>;<**condition de répétition**>;<**incrémation**>)
 >{ 
->    // si la condition est vraie, on éxecute le bloc au-dessus    
+>// si la condition est vraie, on éxecute le bloc au-dessus    
 >} 
->    // si la condition est fausse, la boucle For se termine et le script continue
+>// si la condition est fausse, la boucle For se termine et le script continue
 
 -> Si je detail le bloc:
 -**L'état initial** sera une valeur de départ (ex : 2, 6)
