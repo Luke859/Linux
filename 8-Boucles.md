@@ -1,18 +1,18 @@
 # Les boucles 
 ##### Une boucle dans un programme d’ordinateur est une séquence d'instructions qui sont répètées jusqu’à ce qu’une condition soit atteinte. 
+######Voici mes sources :https://www.it-connect.fr/powershell-et-les-boucles-foreach/
 ---
-Source Génération Clic : https://generation-clic.net/boucle-programmation-informatique/?utm_source=cpp
 ## 1- Boucles For 
 -> La syntaxe d'une boucle For : 
-> For(<**état initial**>;<**condition de répétition**>;<**incrémation**>)
+>**For(<état initial>;<condition de répétition>;<incrémation>)**
 > 
-> { 
+> **{** 
 > 
-> // si la condition est vraie, on éxecute le bloc au-dessus    
+> **// si la condition est vraie, on éxecute le bloc au-dessus**    
 > 
-> }
+> **}**
 > 
-> // si la condition est fausse, la boucle For se termine et le script continue
+> **// si la condition est fausse, la boucle For se termine et le script continue**
 
 -> Si je detail le bloc:
 
