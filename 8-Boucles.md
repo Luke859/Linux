@@ -40,4 +40,4 @@
 **->** ![](Images.md/O.jpg) cela veut dire que notre variable "i" va récuperer la valeur que l'on veut dans le tableau de la variable "couleur"pour que chaque tour on aura une valeur différente. 
 Les valeurs différentes sont dans le cadre rouge.
 
-## 2-Boucle ForEach
+## 2-Boucle ForEach 
