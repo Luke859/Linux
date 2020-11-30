@@ -21,6 +21,7 @@
 -**La condition** de répétiton est de répéter la boucle jusqu'a ce que la valeur qu'on ai mit atteint le maximum qu'elle peut faire.
 
 -**L'incrémentation**, c'est ici que l'on va préciser combien (une valeur) on va ajouter à notre valeur chaque tour (ex : +x soit +1, +2).
+###Voici les conditions d'une boucle For : 
 
 - **Exemple 1 : Boucle For simple** 
 >![](Images.md/Po.jpg)
@@ -41,4 +42,9 @@
 **->** ![](Images.md/O.jpg) cela veut dire que notre variable "i" va récuperer la valeur que l'on veut dans le tableau de la variable "couleur"pour que chaque tour on aura une valeur différente. 
 Les valeurs différentes sont dans le cadre rouge.
 
+- **Example 3 : Boucle For à double condition avec "and"**
+
+
 ## 2-Boucle ForEach 
+
+
