@@ -5,17 +5,10 @@ Source Génération Clic : https://generation-clic.net/boucle-programmation-info
 #### 1- Boucles For 
 -> La syntaxe d'une boucle For : 
 > For(<**état initial**>;<**condition de répétition**>;<**incrémation**>)
-<<<<<<< HEAD
->{
->  // si la condition est vraie, on éxecute le bloc au-dessus 
->}
-> // si la condition est fausse, la boucle For se termine et le script continue
-=======
 >{ 
->// si la condition est vraie, on éxecute le bloc au-dessus    
+>    // si la condition est vraie, on éxecute le bloc au-dessus    
 >} 
->// si la condition est fausse, la boucle For se termine et le script continue
->>>>>>> dcf7ac173bd5bfabc3573be8934c3900b31e2fa3
+>    // si la condition est fausse, la boucle For se termine et le script continue
 
 -> Si je detail le bloc:
 
@@ -29,7 +22,6 @@ Exemple :
 >![](Images.md/Po.jpg)
 
 -Le cadre en orange est comme ce que l'on a vu au début sauf que ici j'ai mis un exemple. C'est notre script de la BoucleFor.
-
 -Le cadre en rouge est le résultat de notre script éxecuter.
 
 2-Boucle s
