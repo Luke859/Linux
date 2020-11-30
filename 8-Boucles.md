@@ -26,6 +26,7 @@ Exemple :
 >![](Images.md/Po.jpg)
 
 -Le cadre en orange est comme ce que l'on a vu au début sauf que ici j'ai mis un exemple. C'est notre script de la BoucleFor.
+
 -Le cadre en rouge est le résultat de notre script éxecuter.
 
 2-Boucle s
