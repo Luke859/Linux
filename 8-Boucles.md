@@ -33,6 +33,7 @@
 >![](Images.md/PH.jpg)
 
 **Si je détail ce que j'ai mis dans le cadre orange :**
+
 **Ma variable** -> "couleur", contient dans un tableau différentes couleurs. (ligne 1)
 
 **Ma boucle For** -> ma variable "i" = 0; "i" plus petit que ma variable "couleur" qui est de longueur du tableau donc 5; on ajoute 1 à chaque tour "i++ = i + 1". (ligne 2)
