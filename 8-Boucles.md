@@ -39,11 +39,29 @@
 
 **Ma boucle For** -> ma variable "i" = 0; "i" plus petit que ma variable "couleur" qui est de longueur du tableau donc 5; on ajoute 1 à chaque tour "i++ = i + 1". (ligne 2)
 
-**->** ![](Images.md/O.jpg) cela veut dire que notre variable "i" va récuperer la valeur que l'on veut dans le tableau de la variable "couleur"pour que chaque tour on aura une valeur différente. 
+**->** ![](Images.md/O.jpg) cela veut dire que notre variable "i" va récuperer la valeur que l'on veut dans le tableau de la variable "couleur" pour que chaque tour on aura une valeur différente.
+
 Les valeurs différentes sont dans le cadre rouge.
 
 - **Example 3 : Boucle For à double condition avec "and"**
+![](Images.md/Poh.jpg)
 
+**Si je détail le script :**
+-> Nous avons créer un tableau de valeur qui va de 0 à 10 (ligne 1)
+
+-> Une autre variable "couleur", qui est un tableau qui contient différentes couleurs. (ligne 3)
+
+**La boucle For ->** Pour mes variables "i" et "j" (**valeur initial**) qui sont égal à 0; "i" plus petit que 10 et ("and" dans le script) "j" plus petit que la longueur du tableau de "couleur"; i++ et i++.
+
+-> Ici la condition **"and"** doit dire que les 2 conditions ci-dessous ![](Images.md/cond.jpg) doivent être vrai sauf que la conditon "j" à dépacer la longueur du tableau, la condition est donc devenu fausse. Ce qui veut dire que la boucle est fausse est s'arrète à 4 (comme dans le cadre rouge juste au-dessus). 
+
+- **Example 4 : Boucle For à double condition avec "or"**
+
+-> Même système que avec la condition "and" sauf avec "or" (cadre rouge) les conditions sont vrai.
+
+![](Images.md/Or.jpg)
+
+-> Donc la condition "i" va aller jusqu'au 10ème tour de la boucle et "j" jusqu'à la longueur du tableau "couleur". On peut le voir dans le cadre orange.
 
 ## 2-Boucle ForEach 
 
