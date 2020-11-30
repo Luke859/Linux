@@ -2,7 +2,7 @@
 ##### Une boucle dans un programme d’ordinateur est une séquence d'instructions qui sont répètées jusqu’à ce qu’une condition soit atteinte. 
 ---
 Source Génération Clic : https://generation-clic.net/boucle-programmation-informatique/?utm_source=cpp
-#### 1- Boucles For 
+### 1- Boucles For 
 -> La syntaxe d'une boucle For : 
 > For(<**état initial**>;<**condition de répétition**>;<**incrémation**>)
 > 
