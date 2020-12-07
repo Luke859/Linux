@@ -18,7 +18,7 @@
 
 4. [Commandes Powershell](https://github.com/Luke859/Linux/blob/main/6-Commandes%20Powershell.md)
 
-5. [Les Variables, leur type et stocker](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
+5. [Les Variables](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
     
     - [Le type de la variable](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
     - [Les différents types de variables](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
