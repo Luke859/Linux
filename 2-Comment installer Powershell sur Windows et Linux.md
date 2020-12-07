@@ -1,4 +1,4 @@
-## Comment installer Powershell sur Windows :
+# Comment installer Powershell sur Windows :
 -**Si dans une situation vous n'avez pas powershell sur Windows où vous voulez le mettre à jour, voici comment l'installer :**
 
 - **1er étape -> suivre le lien du github ci-dessous :**
@@ -13,7 +13,7 @@
 - **4ème étape -> Une fois que vous avez cliquer sur un des liens (où j'ai mis mes flêches), vous aurez un télechargement qui va ce lancer. Il faudra cliquer sur le télechargement une fois terminer. Vous pourrez suivre les étapes et powershell sera installer (où mis à jour pour ceux qu l'on déjà).**
  
 ---
-## Comment installer Powershell sur Linux plus precisement Debian 10 :
+# Comment installer Powershell sur Linux plus precisement Debian 10 :
 
 -**Nous allons le faire via un dépôt de packages dans Debian 10** : 
 
