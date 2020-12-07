@@ -33,13 +33,27 @@ Cela affiche que c'est de type **string**:
 > ![](Images.md/T.jpg)
 
 **->** On peut aussi forcer le type de variable en mettant **[string]** : 
-> **[string]$Luke = "J'apprend le Powershell**
+> **[string]$Luke = "J'apprend le Powershell"**
 
 ---
 ##Les différents type de variable 
 
-->
+-> De type **"int"** donc un entier (ex: 2, 7)
+> ![](Images.md/int.jpg)
 
+- En orange l'entier et en rouge le type de l'entier 
+
+-> De type **"string"** donc un mot ou une phrase (ex: Hello)
+> ![](Images.md/str.jpg.png) 
+-  En orange le mot et en rouge le type du mot.
+
+-> De type **"array"** donc un tableau de string ou int; ex :
+> ![](Images.md/ar.jpg)
+- En orange un tableau de string et en rouge le type donc un tableau.
+  
+-> De type **"boolean"** donc soit vrai soit faux; ex :
+> ![](Images.md/bool.jpg.png)
+- En orange le bool est vrai et en rouge le type.
 ---
 ## Stocker une commande dans une variable 
 
