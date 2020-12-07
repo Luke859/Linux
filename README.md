@@ -25,5 +25,7 @@
     - [Stocker une commmande dans une variable](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
 
 6. [Les boucles](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
+   - [Boucle For]()
+   - [Boucle ForEach]()
 
 7. [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
