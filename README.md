@@ -29,3 +29,11 @@
    - [Boucle ForEach](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
 
 7. [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
+
+### TP Projets 
+
+1. [Scripts de gestion des comptes utilisateurs]()
+2. [Exercice d'installation automatique d'un serveur web Apache]()
+3. [Créer un script permettant de réaliser des sauvegardes automatique de votre serveur web Apache]()
+4. [Créer un annuaire téléphonique]()
+5. [Créer un agenda]()
