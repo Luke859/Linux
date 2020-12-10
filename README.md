@@ -17,18 +17,20 @@
 3. [Les alias de commande](https://github.com/Luke859/Linux/blob/main/5-Alias%20des%20commandes.md)
 
 4. [Commandes Powershell](https://github.com/Luke859/Linux/blob/main/6-Commandes%20Powershell.md)
+   
+5. [Pipelines]()
 
-5. [Les Variables](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
+6. [Les Variables](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
     
     - [Le type de la variable](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
     - [Les différents types de variables](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
     - [Stocker une commmande dans une variable](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
 
-6. [Les boucles](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
+7. [Les boucles](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
    - [Boucle For](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
    - [Boucle ForEach](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
 
-7. [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
+8. [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
 
 ### TP Projets 
 
