@@ -18,7 +18,7 @@
 
 4. [Commandes Powershell](https://github.com/Luke859/Linux/blob/main/6-Commandes%20Powershell.md)
    
-5. [Pipelines]()
+5. [Pipelines](https://github.com/Luke859/Linux/blob/main/11-Pipelines.md)
 
 6. [Les Variables](https://github.com/Luke859/Linux/blob/main/7-Variables%2C%20type%2C%20stocker.md)
     
@@ -44,4 +44,6 @@
    
 4. [Créer un annuaire téléphonique]()
    
-5. [Créer un agenda]()
+5. [Créer un agenda](https://github.com/Luke859/Linux/blob/main/10-%20TP%20Cr%C3%A9er%20un%20agenda.md)
+    - [Définir les commandes](https://github.com/Luke859/Linux/blob/main/10-%20TP%20Cr%C3%A9er%20un%20agenda.md)
+    - [Le script](https://github.com/Luke859/Linux/blob/main/10-%20TP%20Cr%C3%A9er%20un%20agenda.md)
