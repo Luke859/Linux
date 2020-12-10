@@ -65,4 +65,16 @@ Les valeurs différentes sont dans le cadre rouge.
 
 ## 2-Boucle ForEach 
 
+## 3-Boucle DoUntil
+
+**- Une Boucle DoUntil ce décrit de la façon suivante :**
+> **Do {"code"} Until("la condition soit vraie")**
+DO = Faire et Until = Jusqu'a ce que 
+
+
+
+
+
+
+
 
