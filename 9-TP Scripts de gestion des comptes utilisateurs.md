@@ -1,6 +1,6 @@
 # Script de gestion des comptes utilisateurs 
 
-Les consignes du TP sont : 
+**Les consignes du script sont :** 
 
 >**Faire un script de gestion des utilisateurs, qui doit permettre :** 
 -de créer des utilisateurs
@@ -12,8 +12,10 @@ Les consignes du TP sont :
 Source utilisée :https://blog.netwrix.fr/2019/01/16/comment-ajouter-supprimer-et-modifier-des-utilisateurs-et-groupes-locaux-avec-powershell/
 
 ---
-## Défénir les commandes 
+## Défénir les commandes
+ 
 - Premièrement nous allons défénir ce que sont les commandes au-dessus :
+
 > **1- Créer des utilisateurs ->** ***"New-LocalUser"***
 > 
 > **2- Modifier des utilisateurs ->** ***"Set-LocalUser"***
@@ -32,5 +34,7 @@ Source utilisée :https://blog.netwrix.fr/2019/01/16/comment-ajouter-supprimer-e
 ---
 ## Le script 
 
-> ![](Images.md/cest.jpg)
+> ![](Images.md/tp.jpg)
+
+
 
