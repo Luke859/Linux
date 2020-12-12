@@ -6,7 +6,7 @@
 ## Sommaire 
 1. [L'histoire de Powershell](https://github.com/Luke859/Linux/blob/main/1-Histoire%20de%20Powershell.md)
 
-2. [Comment installer Powershell](https://github.com/Luke859/Linux/blob/main/2-Comment%20installer%20Powershell%20sur%20Windows%20et%20Linux.md)
+2. [Comment installer Powershell](https://github.com/Luke859/Linux/blob/main/2-Comment%20installer%20Powershell%20sur%20Windows%20et%20Linux.md) (Windows et Linux)
 
 ### Les commandes Powershell 
 
