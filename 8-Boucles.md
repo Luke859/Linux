@@ -3,7 +3,7 @@
 ###### Voici mes sources :https://www.it-connect.fr/powershell-et-les-boucles-foreach/
 ---
 ## 1- Boucles For 
-###### -> La syntaxe d'une boucle For : 
+#### -> La syntaxe d'une boucle For : 
 >**For(<état initial>;<condition de répétition>;<incrémation>)**
 > 
 > **{** 
@@ -14,7 +14,7 @@
 > 
 > **// si la condition est fausse, la boucle For se termine et le script continue**
 
-###### -> Si je detail le bloc:
+#### -> Si je detail le bloc:
 
 -**L'état initial** sera une valeur de départ (ex : 2, 6)
 
@@ -33,7 +33,7 @@
 - ### **Example 2 : Boucle For de type texte (string)**
 >![](Images.md/PH.jpg)
 
-###### -> Si je détail ce que j'ai mis dans le cadre orange :
+#### -> Si je détail ce que j'ai mis dans le cadre orange :
 
 **Ma variable** -> "couleur", contient dans un tableau différentes couleurs. (ligne 1)
 
@@ -46,7 +46,7 @@ Les valeurs différentes sont dans le cadre rouge.
 - ### **Example 3 : Boucle For à double condition avec "and"**
 ![](Images.md/Poh.jpg)
 
-###### Si je détail le script :
+#### Si je détail le script :
 -> Nous avons créer un tableau de valeur qui va de 0 à 10 (ligne 1)
 
 -> Une autre variable "couleur", qui est un tableau qui contient différentes couleurs. (ligne 3)
