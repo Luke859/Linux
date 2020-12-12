@@ -28,7 +28,12 @@
 
 7. [Les boucles](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
    - [Boucle For](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
+  
    - [Boucle ForEach](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
+  
+   - [Boucle DoUntil](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
+  
+   - [Boucle DoWhile](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
 
 8. [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
 
