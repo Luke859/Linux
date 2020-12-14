@@ -3,10 +3,14 @@
 ## Qu'est ce que Powershell 
 - **PowerShell** est une infrastructure multiplateforme. Elle permet la gestion de la configuration et de l'automatisation des tâches. Elle est aussi composée d'un interpréteur de commandes (shell) de ligne de commande et d'un langage de script.
 ---
-## Sommaire 
+# Sommaire 
+----
+### Histoire et installation de Powershell
 1. [L'histoire de Powershell](https://github.com/Luke859/Linux/blob/main/1-Histoire%20de%20Powershell.md)
 
 2. [Comment installer Powershell](https://github.com/Luke859/Linux/blob/main/2-Comment%20installer%20Powershell%20sur%20Windows%20et%20Linux.md) (Windows et Linux)
+
+----
 
 ### Les commandes Powershell 
 
@@ -37,6 +41,7 @@
 
 8. [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
 
+----
 ### TP Projets 
 
 1. [Scripts de gestion des comptes utilisateurs](https://github.com/Luke859/Linux/blob/main/9-TP%20Scripts%20de%20gestion%20des%20comptes%20utilisateurs.md)
