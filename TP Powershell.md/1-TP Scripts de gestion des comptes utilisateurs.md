@@ -29,12 +29,12 @@ Source utilisée :https://blog.netwrix.fr/2019/01/16/comment-ajouter-supprimer-e
 - On peut trouver toutes ces commandes avec une commande toute simple : 
 > **Get-Command -Module Microsoft.PowerShell.LocalAccounts**
 
->![](Images.md/cc.jpg.png)
+>![](../Images.md/cc.jpg.png)
 
 ---
 ## Le script 
 
-> ![](Images.md/tp.jpg)
+> ![](../Images.md/tp.jpg)
 
 
 

@@ -25,4 +25,4 @@
 ---
 ## Le script
 
-![](Images.md/TP2.jpg)
+![](../Images.md/TP2.jpg)
