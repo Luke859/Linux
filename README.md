@@ -52,3 +52,13 @@
 5. [Créer un agenda](https://github.com/Luke859/Linux/blob/main/10-%20TP%20Cr%C3%A9er%20un%20agenda.md)
     - [Définir les commandes](https://github.com/Luke859/Linux/blob/main/10-%20TP%20Cr%C3%A9er%20un%20agenda.md)
     - [Le script](https://github.com/Luke859/Linux/blob/main/10-%20TP%20Cr%C3%A9er%20un%20agenda.md)
+  
+----
+### Sources et images
+- [Sources utilisées]()
+- [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
+
+  
+----
+### Mon avis sur le projet 
+J'ai trouvé ce projet très interesant même dans les conditions dans lequel nous sommes. Ce projet ma permis d'apprendre beaucoup de chose sur Powershell et ce que l'on peut faire avec Powershell. 
