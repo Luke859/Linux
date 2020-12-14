@@ -45,9 +45,9 @@
 ----
 ### TP Projets 
 
-1. [Scripts de gestion des comptes utilisateurs](https://github.com/Luke859/Linux/blob/main/9-TP%20Scripts%20de%20gestion%20des%20comptes%20utilisateurs.md)
-    - [Définir les commandes](9-TP%20Scripts%20de%20gestion%20des%20comptes%20utilisateurs.md)
-    - [Le script](https://github.com/Luke859/Linux/blob/main/9-TP%20Scripts%20de%20gestion%20des%20comptes%20utilisateurs.md)
+1. [Scripts de gestion des comptes utilisateurs](https://github.com/Luke859/Linux/blob/main/TP%20Powershell.md/1-TP%20Scripts%20de%20gestion%20des%20comptes%20utilisateurs.md)
+    - [Définir les commandes](https://github.com/Luke859/Linux/blob/main/TP%20Powershell.md/1-TP%20Scripts%20de%20gestion%20des%20comptes%20utilisateurs.md)
+    - [Le script](https://github.com/Luke859/Linux/blob/main/TP%20Powershell.md/1-TP%20Scripts%20de%20gestion%20des%20comptes%20utilisateurs.md)
    
 2. [Exercice d'installation automatique d'un serveur web Apache]()
    
@@ -55,9 +55,9 @@
    
 4. [Créer un annuaire téléphonique]()
    
-5. [Créer un agenda](https://github.com/Luke859/Linux/blob/main/10-%20TP%20Cr%C3%A9er%20un%20agenda.md)
-    - [Définir les commandes](https://github.com/Luke859/Linux/blob/main/10-%20TP%20Cr%C3%A9er%20un%20agenda.md)
-    - [Le script](https://github.com/Luke859/Linux/blob/main/10-%20TP%20Cr%C3%A9er%20un%20agenda.md)
+5. [Créer un agenda](https://github.com/Luke859/Linux/blob/main/TP%20Powershell.md/2-%20TP%20Cr%C3%A9er%20un%20agenda.md)
+    - [Définir les commandes](https://github.com/Luke859/Linux/blob/main/TP%20Powershell.md/2-%20TP%20Cr%C3%A9er%20un%20agenda.md)
+    - [Le script](https://github.com/Luke859/Linux/blob/main/TP%20Powershell.md/2-%20TP%20Cr%C3%A9er%20un%20agenda.md)
   
 ----
 ### Sources et images
