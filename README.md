@@ -42,8 +42,6 @@
   
    - [Boucle DoWhile](https://github.com/Luke859/Linux/blob/main/8-Boucles.md)
 
-8. [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
-
 ----
 ### TP Projets 
 
@@ -63,7 +61,7 @@
   
 ----
 ### Sources et images
-- [Sources utilisées]()
+- [Sources utilisées](https://github.com/Luke859/Linux/blob/main/Sources.md/Les%20sources.md)
 - [Images utilisées](https://github.com/Luke859/Linux/tree/main/Images.md)
 
   
