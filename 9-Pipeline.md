@@ -7,4 +7,4 @@
 
 > ![](Images.md/pipe.jpg)
 
--> **Mon script** à "start-process" donc lancer le protocole qui est d'ouvrir "notepad" et avec le pipeline l'information est donc envoyé dans la commande "get-process". Le "get-process" à ouvert "notepad". 
+-> **Mon script** : "start-process" à donc lancer le protocole qui est d'ouvrir "notepad" et avec le pipeline l'information est donc envoyé dans la commande "get-process". Le "get-process" à ouvert "notepad". 
