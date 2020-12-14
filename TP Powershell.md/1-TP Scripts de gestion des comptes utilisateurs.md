@@ -2,12 +2,12 @@
 
 **Les consignes du script sont :** 
 
->**Faire un script de gestion des utilisateurs, qui doit permettre :** 
--de créer des utilisateurs
--de modifier des utilisateurs
--de supprimer des utilisateurs
--de voir tous les utilisateurs
--de faire une recherche sur l'existence d'un utilisateur en particulier
+>**Faire un script de gestion des utilisateurs, qui doit permettre :**
+> - de créer des utilisateurs
+> - de modifier des utilisateurs
+> - de supprimer des utilisateurs
+> - de voir tous les utilisateurs
+> - de faire une recherche sur l'existence d'un utilisateur en particulier
 
 Source utilisée :https://blog.netwrix.fr/2019/01/16/comment-ajouter-supprimer-et-modifier-des-utilisateurs-et-groupes-locaux-avec-powershell/
 
