@@ -3,6 +3,7 @@
 ## Sources "Histoire et installation" :
 - **Histoire de powershell** :
   - -> ***source*** (https://www.itpro.fr/historique-de-powershell/)
+<br/>
 
 - **Comment installer Powershell** : 
   - -> ***source Windows*** (https://docs.microsoft.com/fr-fr/powershell/scripting/install/installing-powershell-core-on-windows?view=powershell-7.1) 
@@ -13,15 +14,24 @@
 ## Sources "Les commandes Powershell" : 
 - **Nom des commandes**, **les commandes aides**, **Alias des commandes**, **commandes powershell** : 
   - -> ***source*** (https://www.youtube.com/watch?v=IHrGresKu2w&t=784s)
+<br/>
 - **Variables** : 
+  - -> ***source***(https://www.youtube.com/watch?v=Ecdl1pOMtmE&t=1302s)**à 16m47**
+<br/>
 - **Les boucles** :
-  - Boucles For ->  ***source*** ()
+  - Boucles For ->  ***source*** (https://www.youtube.com/watch?v=2vPzm6wN6vw)
   - Boucles ForEach ->  ***source*** (https://www.youtube.com/watch?v=h4z610jQANM&list=PLSuzYIVSEUT4lxDRCvar3sjh5QceTmQSj&index=1)
-  - Boucles DoWhile et DoUntil ->  ***source*** (https://www.youtube.com/watch?v=cUCTcvK5OsU&list=PLSuzYIVSEUT4lxDRCvar3sjh5QceTmQSj&index=3)
-  
-
+  - Boucles DoWhile et DoUntil ->  ***source*** (https://www.youtube.com/watch?v=cUCTcvK5OsU&list=PLSuzYIVSEUT4lxDRCvar3sjh5QceTmQSj&index=3)  
+<br/>
 - **Pipelines** :
     - -> ***source*** (https://docs.microsoft.com/fr-fr/powershell/scripting/learn/ps101/04-pipelines?view=powershell-7.1)
 
+---
+## Sources "TP Projets" :
+- **Scripts de gestion des comptes utilisateurs** :
+  - -> ***source*** (/)
+
+- **Créer un agenda** :
+  - -> ***source*** (https://www.youtube.com/watch?v=Y9R3OtVWwPE) et quelque recherche sur internet 
 
    
