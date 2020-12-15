@@ -17,7 +17,7 @@
 
 ### Les commandes Powershell 
 
-1. [Nom des commandes](https://github.com/Luke859/Linux/blob/main/3-Nom%20des%20commandes.md)
+1. [Le nom des commandes (cmdlets)](https://github.com/Luke859/Linux/blob/main/3-Nom%20des%20commandes.md)
 
 2. [Les commandes d'aide](https://github.com/Luke859/Linux/blob/main/4-Les%20commandes%20aides.md)
 
