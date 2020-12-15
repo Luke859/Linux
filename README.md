@@ -67,4 +67,4 @@
   
 ----
 ### Mon avis sur le projet 
-J'ai trouvé ce projet très interesant même dans les conditions dans lequel nous sommes. Ce projet ma permis d'apprendre beaucoup de chose sur Powershell et ce que l'on peut faire avec Powershell. 
+J'ai trouvé ce projet très interesant malgré les conditions sanitaires dans lesquelles nous nous trouvons. Ce projet m'a permis d'apprendre beaucoup de chose sur Powershell et ce que l'on peut faire avec Powershell. 
