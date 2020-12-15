@@ -1,6 +1,8 @@
-# Le nom des commandes 
+# Le nom des commandes (Cmdlets)
 -**Le nom des commandes commence toujours par un "Verbe" puis "Nom"**
 > **Verbe-Nom**
+
+-Il existe une **liste de verbe** -> Get, New, Add, Set, start, ...
 
 Par exemple :
 > ![](Images.md/A1.jpg)
