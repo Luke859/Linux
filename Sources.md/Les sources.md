@@ -37,4 +37,4 @@
 - **Créer un agenda** :
   - -> ***source*** (https://www.youtube.com/watch?v=Y9R3OtVWwPE) et quelque recherche sur internet 
 
-   
+**Image de powershell** ->  ***source***(https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1fmx1rbmqrxrr.cloudfront.net%2Fzdnet%2Foptim%2Fi%2Fedit%2Fne%2F2020%2F02%2Fpowershell_logo_620__w630.jpg&imgrefurl=https%3A%2F%2Fwww.zdnet.fr%2Factualites%2Fmicrosoft-powershell-7-est-disponible-pour-de-nouvelles-plateformes-39900201.htm&tbnid=Izw_hyoDL1EY6M&vet=12ahUKEwj8xN2bydXtAhUC_RoKHT99BEkQMygAegUIARCmAQ..i&docid=ecDFbgJphYo6TM&w=630&h=356&q=image%20powershell&ved=2ahUKEwj8xN2bydXtAhUC_RoKHT99BEkQMygAegUIARCmAQ)
