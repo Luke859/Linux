@@ -30,7 +30,7 @@
 
 -Le cadre en rouge est le résultat de notre script éxecuter.
 
-- ### **Example 2 : Boucle For de type texte (string)**
+- ### **Exemple 2 : Boucle For de type texte (string)**
 >![](Images.md/PH.jpg)
 
 #### -> Si je détail ce que j'ai mis dans le cadre orange :
@@ -43,7 +43,7 @@
 
 Les valeurs différentes sont dans le cadre rouge.
 
-- ### **Example 3 : Boucle For à double condition avec "and"**
+- ### **Exemple 3 : Boucle For à double condition avec "and"**
 ![](Images.md/Poh.jpg)
 
 #### Si je détail le script :
@@ -55,9 +55,9 @@ Les valeurs différentes sont dans le cadre rouge.
 
 -> Ici la condition **"and"** doit dire que les 2 conditions ci-dessous ![](Images.md/cond.jpg) doivent être vrai sauf que la conditon "j" à dépacer la longueur du tableau, la condition est donc devenu fausse. Ce qui veut dire que la boucle est fausse est s'arrète à 4 (comme dans le cadre rouge juste au-dessus). 
 
-- ### **Example 4 : Boucle For à double condition avec "or"**
+- ### **Exemple 4 : Boucle For à double condition avec "or"**
 
--> Même système que avec la condition "and" sauf avec "or" (cadre rouge) les conditions sont vrai.
+-> Même système que avec la condition "and" sauf avec "or" (cadre rouge) les conditions sont vraies.
 
 ![](Images.md/Or.jpg)
 
