@@ -54,7 +54,19 @@ Cela affiche que le type présent (dans le cadre orange) est de type **string** 
 -> De type **"boolean"** donc soit vrai soit faux; exemple :
 > ![](Images.md/bool.jpg.png)
 - En orange le bool est vrai et en rouge le type.
+
+-> J'ai que expliqué les principaux type de variabele au-dessus
+
+-> **Il existe d'autres types de variable tel que:** 
+-**"long"**(valeur entière sur 64 bits )
+-**"byte"**(caractère sur 8 bits)
+-**"char"** (caractère Unicode sur 16 bits)
+-**"array"** (tableau de valeur)
+-**"decimal"** (valeur décimale sur 128 bits)
+-**DateTime"** (date et heure)
+
 ---
+
 ## Stocker une commande dans une variable 
 
 **->** On peut stocker une commande dans une variable avec la commande ci-dessous :
