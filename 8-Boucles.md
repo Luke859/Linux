@@ -145,6 +145,7 @@ Do = Faire et While = Tant que, donc le code veut dire :
 > **Joue ce ("code")** **Tant que ("la condition est vraie")**
 
 - Voici un exemple :
+
 ![](Images.md/While.jpg)
 
 - Description du script : 
