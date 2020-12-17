@@ -46,7 +46,8 @@ Exemple : **Créer un fichier**
 ![](Images.md/nitem.jpg)
 
 Avec **New-Item** on peut aussi: 
--créer un répertoire
+
+> -créer un répertoire
 -créer un profil 
 -créer un répertoir dans un répertoire 
 -créer multiple fichiers 
