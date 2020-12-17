@@ -36,7 +36,7 @@ Cela affiche que le type présent (dans le cadre orange) est de type **string** 
 > **[string]$Luke = "J'apprend le Powershell"**
 
 ---
-##Les différents type de variable 
+## Les différents type de variable 
 
 -> De type **"int"** donc un entier (ex: 2, 7)
 > ![](Images.md/int.jpg)
