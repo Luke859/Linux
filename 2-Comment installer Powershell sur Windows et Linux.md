@@ -3,14 +3,14 @@
 
 - **1er étape -> suivre le lien du github ci-dessous :**
 >https://github.com/PowerShell/powershell/releases
-- **2ème étape -> Une fois sur le github, il faut descendre tout en bas de la page et il sera écrit "assets"**
+- **2ème étape -> Une fois sur le github, il faut descendre tout en bas de la page de la version la plus récente et il sera écrit "assets"**
 >![](Images.md/SH.jpg.png)
 
 - **3ème étape -> Cliquer sur "assets" et il y aura une page avec des liens d'installation.** 
 
 >![](Images.md/inst.jpg.png) 
 
-- **4ème étape -> Une fois que vous avez cliquer sur un des liens (où j'ai mis mes flêches), vous aurez un télechargement qui va ce lancer. Il faudra cliquer sur le télechargement une fois terminer. Vous pourrez suivre les étapes et powershell sera installer (où mis à jour pour ceux qu l'on déjà).**
+- **4ème étape -> Une fois que vous avez cliquer sur un des liens (où j'ai mis mes flêches), vous aurez un télechargement qui va ce lancer. Il faudra cliquer sur le télechargement une fois terminer. Vous pourrez suivre les étapes et powershell sera installer (où mis à jour pour ceux qui l'on déjà).**
  
 ---
 # Comment installer Powershell sur Linux plus precisement Debian 10 :
