@@ -16,6 +16,10 @@
   - -> ***source*** (https://www.youtube.com/watch?v=IHrGresKu2w&t=784s)
 <br/>
 
+- **Script** :
+  - -> ***source***( wikipedia et connaissance)
+<br/>
+
 - **Variables** : 
   - -> ***source***(https://www.youtube.com/watch?v=Ecdl1pOMtmE&t=1302s)**à 16m47**
 <br/>
