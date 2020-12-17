@@ -25,7 +25,7 @@
 
 4. [Commandes Powershell](https://github.com/Luke859/Linux/blob/main/6-Commandes%20Powershell.md)
    
-5. [Pipelines](https://github.com/Luke859/Linux/blob/main/9-Pipeline.md)
+5. [Pipeline](https://github.com/Luke859/Linux/blob/main/9-Pipeline.md)
    
 6. [Script](https://github.com/Luke859/Linux/blob/main/10-%20Les%20Scripts.md)
 
