@@ -48,11 +48,11 @@ Exemple : **Créer un fichier**
 Avec **New-Item** on peut aussi: 
 
 > -créer un répertoire
--créer un profil 
--créer un répertoir dans un répertoire 
--créer multiple fichiers 
--Utiliser "Wildcards" pour créer des fichiers dans plusieurs répertoires
--Créer un lien symbolique vers un fichier ou un dossier
+> -créer un profil 
+> -créer un répertoir dans un répertoire 
+> -créer multiple fichiers 
+> -Utiliser "Wildcards" pour créer des fichiers dans plusieurs répertoires
+> -Créer un lien symbolique vers un fichier ou un dossier
 
 **Pour voir des exemples de commande ci-dessus, voici le lien :** https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7.1
 
