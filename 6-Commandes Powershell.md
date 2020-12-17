@@ -34,16 +34,29 @@ Il a un alias qui est **"dir"**
 - Get-process -Name Discord **| select-object * :** cette commande va nous permettre de voir les propriétées de Discord donc le nom, l'identifiant, ect ...
 
 ![](Images.md/A.jpg) 
-- **(symbole dollar) luke = Get-process Discord :** ici on a creé une variable nommé "$luke" qui va prendre un objet "get-process Discord"
+- **(symbole dollar) luke = Get-process Discord :** ici on a crée une variable nommée "$luke" qui va prendre un objet "get-process Discord"
 
 ![](Images.md/B.jpg) 
 
 ---
--**New-item :** 
+-**New-item :** cette commande va créer un nouveau élement (item) et définit sa valeur.  Les types d'éléments qui peuvent être créés dépendent de l'emplacement de l'élément (item).
 
+Exemple : **Créer un fichier** 
+
+![](Images.md/nitem.jpg)
+
+Avec **New-Item** on peut aussi: 
+-créer un répertoire
+-créer un profil 
+-créer un répertoir dans un répertoire 
+-créer multiple fichiers 
+-Utiliser "Wildcards" pour créer des fichiers dans plusieurs répertoires
+-Créer un lien symbolique vers un fichier ou un dossier
+
+**Pour voir des exemples de commande ci-dessus, voici le lien :** https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7.1
 
 ---
-- **cd\ :** nous ramene au debut du document
+- **cd\ :** nous ramène au début du document
 
 ---
 - **ipconfig :** cela permet de voir nos adresses IP, ect
